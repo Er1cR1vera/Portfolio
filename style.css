@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+/* image style */
+
+img{
+    border-radius: 50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    margin: 0%;
+    font-family: 'Playfair Display', serif;
+}
+/* header style*/
+header{
+height: auto;
+background-color: #810404;
+}
+/* navbar and header */
+.top {
+    font-family: 'Playfair Display', serif;;
+    font-size: 72px;
+    color: #BEA6A0 ;
+    text-align: center;
+    letter-spacing: normal;
+    margin: 0%;
+    padding: 20px 0 0 0 ;
+}
+
+header h2 {
+    font-family:'Playfair Display', serif; 
+    color:#b8b0b0;
+    margin: 0px;
+    font-size: medium;
+    text-align: center;
+}
+/* footer style*/
+footer{
+    background-color:#810404;
+
+}
+
+section{
+    padding: 0 25%;
+    margin: 80px 0;
+}
+/*font styles/color*/
+h1,h2,h3 {
+    font-family:'Playfair Display', serif;
+    color: #810404;
+    text-align: center;
+    font-weight: 500;
+}
+
+p {
+    font-family: 'Playfair Display', serif; 
+    text-align: center;
+    font-weight: 500;
+}
+li {
+    font-family: 'Playfair Display', serif;
+    line-height: 1.5em;
+    margin-bottom: 0;
+   
+   }
+    /* interactive links */
+a {
+    font-weight: 700;
+}
+
+a:link { color: #810404; }
+a:visited { color: #0083A6 ; }
+a:hover { color: #005072; }
+a:active { color: #FFA488; }
+a:hover {
+text-decoration: underline;	
+}
+
+em {
+    font-weight: 900;
+    font-family: 'Playfair Display', serif;
+}
+ /*footer font style */
+footer p {
+    color: #b8b0b0;
+    text-align: center;
+    padding: 5%;
+    margin: 0%;
+}
+
+.topPage {
+    padding-top: 80px;
+    border-top: 2px solid #FFA488;
+}
+
+/* navbar style */
+.navbar{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+
+}
